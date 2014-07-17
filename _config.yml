@@ -1,0 +1,12 @@
+name: Marijn Koesens' blog
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'blog.marijnkoesen.nl'
+author:         'Marijn Koesen'
